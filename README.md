@@ -1,20 +1,28 @@
 **Carlos Neto** 
 
-Hi all, my name is Carlos, and I'm a backend engineer that is currently part of Huub, a portuguese tech company that was acquired by Maersk in September 2021. <br>
-I'm 27 years old from Portugal, living at Vila do Conde. <br>
-<br>
-### Academic experience <br>
-* MSc in Electrical and Computing Engineering @ Faculdade de Engenharia da Universidade do Porto (FEUP) <br>
-  * Major in µEletronics, Telecomunications and Computers.
+Hi all, my name is Carlos, and I'm a backend engineer that is currently part of Huub, a portuguese tech company that was acquired by Maersk in September 2021.  
+I'm 27 years old from Portugal, living at Vila do Conde.  
+
   
-### Past professional experiences <br>
-* *WIP* <br>
+### Academic experience
+* MSc in Electrical and Computing Engineering @ Faculdade de Engenharia da Universidade do Porto (FEUP)
+  * Major in µEletronics, Telecomunications and Computers (15/20).
+  
+### Past professional experiences
+* Maersk 2021 - **ongoing**
+  * Developing microservices writen in Django, FastAPI and .NET (both framework and core). Experience with Python, .NET, Angular, Flutter, PostgreSQL, Docker, AWS and Azure.   
+* NOS Telecomunicações 2019-2021
+  * Been part of NOS trainee program, known as NOS Alfa, on its 1st tech edition (NOS Alfa Tech).  
+    Within it, I was able to do two six-months projects in two different areas of the company, where I was able to learn Python and Django in an enterprise environment:  
+        - I worked on a POC for a data driven product that aimed to deliver data insights of a B2B Wifi as a service product (with a backend in Django, a frontend in Angular, I also learned a lot about NoSQL and big data (Hadoop)).  
+        - After that, I worked in system administration, managing part of the mobile grid of BTS, by developing python scripts to be run by a IFFF engine, StackStorm.
 
-### Skills <br>
-* *WIP* <br>
-
-### Hobbies <br>
-* *WIP* <br>
-
-### Personal projects and contributions <br>
-* To add...
+### Skills
+* Python
+* JavaScript
+* Django
+* FastAPI
+* .NET
+* Docker
+* PostgreSQL
+* Azure
